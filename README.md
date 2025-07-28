@@ -1,1 +1,1 @@
-# PRODIGY_CS_05
+Develop a packet sniffer tool using Python program, and the program can captures and analyzes network packets. Display relevant information such as source and destination IP address, protocol and payload data.
